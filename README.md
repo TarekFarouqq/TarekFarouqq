@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tarek Farouq</h1>
+<h1 align="center">Tarek Farouq</h1>
 <h3 align="center">Software Engineer | Full Stack .NET Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
